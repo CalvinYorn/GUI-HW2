@@ -97,7 +97,6 @@ li a {
 
 /*good*/
 li a:hover{
-  background-color: none;
   color: white;
 }
 
